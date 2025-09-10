@@ -56,14 +56,6 @@ _A Python code protection system with advanced encryption, a hacking-themed cons
 
 ---
 
-## 🏁 **Quick Start**
-
-### 📥 **Installation**
-```bash
-git clone https://github.com/yourusername/AZCompiler.git
-cd AZCompiler
-```
-
 ### ▶ **Basic Usage**
 
 #### 🔧 **Compile a Python file**
