@@ -123,16 +123,6 @@ AZCompiler/
 
 ---
 
-## 🎮 **AZTheme Console Features**
-
-- 🎨 **Color-Coded Messages**: Error, success, info, and warnings  
-- ⏳ **Animated Indicators**: Loading spinners and download progress  
-- 🧹 **Clean Output**: Timestamp-free, minimalistic format `[Topic] Message`  
-- ✨ **Stylish Prompts**: Custom input design for an immersive experience  
-- 🖥 **Console Banner**: Displays a hacking-themed banner on startup  
-
----
-
 ## ⚠️ **Important Notes**
 > ❗ **Not Military-Grade Encryption** – AZCompiler offers **basic obfuscation** for casual protection.  
 > 🔑 **Password Recovery Is Impossible** – Always keep backups and remember your passwords.  
